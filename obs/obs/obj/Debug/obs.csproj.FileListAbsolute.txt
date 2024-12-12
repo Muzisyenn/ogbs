@@ -1,0 +1,10 @@
+C:\Users\rizat\Desktop\obs\obs\bin\Debug\obs.exe.config
+C:\Users\rizat\Desktop\obs\obs\bin\Debug\obs.exe
+C:\Users\rizat\Desktop\obs\obs\bin\Debug\obs.pdb
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.csproj.AssemblyReference.cache
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.Properties.Resources.resources
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.csproj.GenerateResource.cache
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.csproj.CoreCompileInputs.cache
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.exe
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.pdb
+C:\Users\rizat\Desktop\obs\obs\obj\Debug\obs.AnaForm.resources
